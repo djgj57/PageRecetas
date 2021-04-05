@@ -1,0 +1,28 @@
+.titulo-receta-lemon{
+Color: #000000;
+font-family: Arial;
+background-color: #FEF400;
+}
+
+.titulo-receta-carrot{
+    Color: #000000;
+    font-family: Arial;
+    background-color: #FEA500;
+    }
+
+
+p{
+Color: #444444;
+font-family: Arial;
+}
+
+h2{
+Color: #000000;
+font-family: 'Times New Roman', Times, serif;
+font-style: italic;
+background-color: #EAEAEA;
+}
+
+h3{
+    font-style: italic; 
+    }
